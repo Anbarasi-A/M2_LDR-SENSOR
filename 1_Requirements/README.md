@@ -2,7 +2,7 @@
  * In many cases, the majority of street lights, outdoor lighting, and a variety of indoor house equipment are manually operated and maintained. This is not only dangerous, but it also wastes energy due to employee negligence or unusual situations when turning on and off these electrical appliances.The resistance changes when light shines on the resistor. These resistors are commonly employed in many circuits that need the detection of light. These resistors come in a range of shapes and sizes, as well as resistance levels.
 
 
-# INTODUCTION
+# INTRODUCTION
  * The LDRs are used in a bridge sensor circuit to convert light into voltage, allowing various actions to be performed, such as determining the darkness in the room and turning on or off the light by feeding the voltage signal into the microcontroller.The conductivity of a substance improves when light is absorbed by it. The electrons in the valence band of the material rush to the conduction band when light shines on the LDR.
 
 
