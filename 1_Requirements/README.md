@@ -11,7 +11,7 @@
  * voltage source
  * LDR
  * 4 Resistors
- * Audio out
+ * Buzzer
  * Switch
 
 ## LDR SENSOR DESIGN
@@ -39,6 +39,20 @@ It has a 1 KB EEPROM memory and a 2 KB SRAM memory.
 
 ## Switch
  * Switches come in a variety of shapes and sizes, with numerous sets of contacts operated by the same knob or actuator with the contacts operating simultaneously, sequentially, or alternately.
+ 
+# HIGH LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL1 | LDR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
+| HL2 | SERVO MOTOR INTERFACING | IMPLEMENTED |
+
+# LOW LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL1-LL1 | ABLE TO DETECT THE INTENSITY OF LIGHT WITH LDR | IMPLEMENTED |
+| HL1-LL2 | LDR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
+| HL2-LL1 | LDR1>LDR2 ITS ROTATE RIGHT & LDR2>LDR1 ITS ROTATE LEFT | IMPLEMENTED |
+| HL2-LL2 | SERVO MOTOR ROTATES THE PANNEL POSITION	| IMPLEMENTED
 
 
 
