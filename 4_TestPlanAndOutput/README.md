@@ -1,9 +1,11 @@
 # OUTPUT
 
 ## OFF Mode
-![off  mode](https://user-images.githubusercontent.com/101244018/164648158-fe91be47-f6c2-4724-9e42-a6bdd397426e.png)
+![OFF mode](https://user-images.githubusercontent.com/101244018/164676075-0ad2cb8e-db8c-444d-abf9-f327efd69c2f.png)
+
 
 ## ON Mode
-![on mode](https://user-images.githubusercontent.com/101244018/164648205-c72ad0f8-37d0-47ad-a914-b502d1798146.png)
+![ON Mode](https://user-images.githubusercontent.com/101244018/164676103-0023597d-8dda-44c7-98e3-2cea0d2721ff.png)
+
 
 
