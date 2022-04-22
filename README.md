@@ -10,6 +10,10 @@
 
 # Code Grade
 # In Action
+# OFF Mode
+![OFF Mode](https://user-images.githubusercontent.com/101244018/164678159-3a873978-72c6-44af-bd4d-081be0194a87.png)
+
+
 # ON Mode 1
 ![ON Mode 1](https://user-images.githubusercontent.com/101244018/164677896-13ba9b15-8819-4e3d-ad6b-f96265275311.png)
 
