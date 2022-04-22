@@ -1,11 +1,17 @@
 # OUTPUT
 
-## OFF Mode
-![OFF mode](https://user-images.githubusercontent.com/101244018/164676075-0ad2cb8e-db8c-444d-abf9-f327efd69c2f.png)
+## OFF Mode 
+![OFF Mode](https://user-images.githubusercontent.com/101244018/164678311-73b998f1-30fc-4493-8043-b4bae39f1642.png)
 
 
-## ON Mode
-![ON Mode](https://user-images.githubusercontent.com/101244018/164676103-0023597d-8dda-44c7-98e3-2cea0d2721ff.png)
+## ON Mode 1
+![ON Mode 1](https://user-images.githubusercontent.com/101244018/164678364-8b063a83-cdd3-4aff-a6ff-ddad8ae98fee.png)
+
+
+## ON Mode 2
+![ON Mode 2](https://user-images.githubusercontent.com/101244018/164678387-b0b98d00-bfa5-445f-afbc-aa128f560ef2.png)
+
+
 
 
 
