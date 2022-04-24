@@ -70,8 +70,6 @@ It has a 1 KB EEPROM memory and a 2 KB SRAM memory.
 ## HOW
 * Their resistance lowers as the light intensity increases: an LDR's resistance is high in the dark and at low light levels, and only a small amount of current may flow through it.
 
-# SWOT ANALYSIS 
-https://app.diagrams.net/#HAnbarasi-A%2FM2_LDR_SENSOR%2Fmain%2F1_Requirements%2FSWOT%20ANALYSIS.drawio.png
 
 
 
