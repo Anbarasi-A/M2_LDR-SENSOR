@@ -53,6 +53,26 @@ It has a 1 KB EEPROM memory and a 2 KB SRAM memory.
 | HL01-LL02 | LDR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
 | HL02-LL02 | BUZZER INDICATES THE INTENSITY OF LEDs	| IMPLEMENTED
 
+# 4W and H
+
+## WHO
+* LDR Sensor is using in most of the organization.
+
+## WHAT
+* These devices are light-dependent; when light shines on the LDR, the resistance drops, whereas in the dark, it increases. When an LDR is kept in the dark, it has a high resistance, and when it is maintained in the light, it has a lower resistance.
+
+## WHERE
+* These devices are employed in situations where it is important to detect the presence and absence of light. These resistors are employed as light sensors in alarm clocks, street lights, light intensity metres, and burglar alarm circuits, among other things.
+
+## WHEN
+* Light dependent resistors (LDR) are light-sensitive devices that are commonly used to detect the presence or absence of light, as well as to measure the intensity of light.
+
+## HOW
+* Their resistance lowers as the light intensity increases: an LDR's resistance is high in the dark and at low light levels, and only a small amount of current may flow through it.
+
+# SWOT ANALYSIS 
+
+
 
 
 
